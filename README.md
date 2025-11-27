@@ -1,6 +1,6 @@
 📘 Projeto Prático: Exploração com Kali Linux, Medusa e Metasploitable 2
 
-🧭 Visão Geral
+Visão Geral
 
 Este documento descreve o projeto prático realizado com Kali Linux, Metasploitable 2 e DVWA para simular cenários de exploração de vulnerabilidades em ambiente totalmente controlado.
 O objetivo foi:
